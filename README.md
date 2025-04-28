@@ -61,7 +61,7 @@ The augmented and generated outputs will be stored in:
 /content/output_augmented
 /content/output_aug_tiles
 ```
-
+Drive link to access the dataset - https://drive.google.com/drive/folders/0AHWeA6XeWR44Uk9PVA
 ---
 
 ## How to Run
